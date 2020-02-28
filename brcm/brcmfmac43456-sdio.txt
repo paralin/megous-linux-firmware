@@ -97,3 +97,9 @@ eu_edthresh5g=-54
 
 
 muxenab=0x10
+
+# OOB IRQ settings -- next 3 "sd" parameters uncommented for OOB IRQ. Edge sensitive interrupt via WL_HOST_WAKE line. 
+#muxenab=0x10
+#sd_gpout=0
+#sd_oobonly=1
+#sd_gpval=1
